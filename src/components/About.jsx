@@ -18,7 +18,7 @@ export default function About() {
           </p>
           <div className="about-meta">
             <div><Languages size={16} /> English, Hindi</div>
-            <div><Heart size={16} /> Cricket, and learning new tools for the close</div>
+            <div><Heart size={16} /> Cricket, and Exploring new tool</div>
             <div><GraduationCap size={16} /> MBA, Finance — Lovely Professional University</div>
           </div>
         </div>
